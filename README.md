@@ -36,7 +36,7 @@ Then, simply download it and start enjoying your text! 🎶📝
 
 ---
 
-⚠️ **Note:**  
+## ⚠️ **Note:**  
 There is no strict limit to the number of audios you can transcribe. However, to avoid any bot detection issues (even if you’re not a bot), I recommend processing a maximum of **5 audios per batch**. I don’t have an exact threshold, but 5 should keep you safe.
 
 ---
