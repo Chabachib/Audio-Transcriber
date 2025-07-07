@@ -11,6 +11,14 @@ When I want to run this, I usually use Kaggle with a good GPU to make the proces
 
 ---
 
+## 💡 About the Notebook
+
+This notebook is designed for **general audio transcription**, so you can use it to transcribe **any kind of audio you want** — not just songs.  
+
+My main motivation was to get **rap lyrics**, but feel free to use it for podcasts, interviews, speeches, or any audio files you need transcribed!
+
+---
+
 ## 🚀 How to Run the Notebook
 
 1. Download the notebook file: **`audio_transcriber.ipynb`**.
@@ -20,9 +28,17 @@ When I want to run this, I usually use Kaggle with a good GPU to make the proces
 
 ---
 
-⚠️ **Note:**  
-There is no strict limit to the number of songs you can transcribe. However, to avoid any bot detection issues (even if you’re not a bot), I recommend processing a maximum of **5 audios per batch**. I don’t have an exact threshold, but 5 should keep you safe.
+## 💬 Getting Your Lyrics or Transcript
+
+After the transcription is done, you will find a **text file** containing the lyrics or transcript in the **output folder**.  
+Just refresh the folder view, and you will see the file there.  
+Then, simply download it and start enjoying your text! 🎶📝
 
 ---
 
-Happy transcribing and happy rapping! 🎧✨
+⚠️ **Note:**  
+There is no strict limit to the number of audios you can transcribe. However, to avoid any bot detection issues (even if you’re not a bot), I recommend processing a maximum of **5 audios per batch**. I don’t have an exact threshold, but 5 should keep you safe.
+
+---
+
+Happy Transcribing and Happy Rapping (or Listening)! 🎧✨
